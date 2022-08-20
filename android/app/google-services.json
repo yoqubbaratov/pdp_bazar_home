@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422378501256",
+    "project_id": "pdp-bazar-home",
+    "storage_bucket": "pdp-bazar-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422378501256:android:fb81a7f8b94da9027c5b3d",
+        "android_client_info": {
+          "package_name": "com.alix.pdp_bazar_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422378501256-s3iqhnsr7lni791ovp4npevqoivibjvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXV7o18UEgnpmfirOPa0_xWzKNqOIOFZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422378501256-s3iqhnsr7lni791ovp4npevqoivibjvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
